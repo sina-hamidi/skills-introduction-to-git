@@ -40,7 +40,12 @@ let currentY = 0;
 let score = 0;
 let gameOver = false;
 let level = 1;
+<<<<<<< HEAD
 let patternsCleared = 0;let isPaused = false;
+=======
+let patternsCleared = 0;
+let isPaused = false;
+>>>>>>> add-level-counter
 let dropCounter = 0;
 let dropInterval = 1000;
 let lastTime = 0;
